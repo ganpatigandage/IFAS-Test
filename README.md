@@ -1,3 +1,18 @@
+🔗 Figma Design
+
+https://www.figma.com/design/DsFXeaoygEhm80f0irb2p8/Assessment-Task
+
+🚀 Tech Stack
+
+React.js (Vite or CRA)
+
+JavaScript (ES6+)
+
+HTML5
+
+CSS3
+
+CSS Modules 
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
